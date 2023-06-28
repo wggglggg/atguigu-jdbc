@@ -51,7 +51,7 @@
       <recent name="C:\Users\wggglggg\OneDrive\venvs\JavaProjects\JDBC\SGG2023JDBC8.0\atguigu-jdbc\jdbc-base-statement\lib" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.JdbcStatementQueryPart">
     <configuration name="JdbcStatementLoginPart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jdbc01.jdbc.JdbcStatementLoginPart" />
       <module name="jdbc-base-statement" />
@@ -65,8 +65,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JdbcStatementQueryPart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jdbc01.jdbc.JdbcStatementQueryPart" />
+      <module name="jdbc-base-statement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdbc01.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JdbcStatementQueryPart" />
         <item itemvalue="Application.JdbcStatementLoginPart" />
       </list>
     </recent_temporary>
@@ -79,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687934932752</updated>
-      <workItem from="1687934933808" duration="2725000" />
+      <workItem from="1687934933808" duration="3423000" />
     </task>
     <servers />
   </component>
