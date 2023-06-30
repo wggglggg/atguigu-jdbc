@@ -30,11 +30,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path": "C:\\Users\\wggglggg\\OneDrive\\venvs\\JavaProjects\\JDBC\\SGG2023JDBC8.0\\atguigu-jdbc\\jdbc-base-statement\\lib",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/wggglggg/OneDrive/venvs/JavaProjects/JDBC/SGG2023JDBC8.0/atguigu-jdbc/jdbc-base-statement/lib",
+    "last_opened_file_path": "C:/Users/wggglggg/OneDrive/venvs/JavaProjects/JDBC/SGG2019JDBC/jdbc_1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,9 +56,8 @@
       <recent name="C:\Users\wggglggg\OneDrive\venvs\JavaProjects\JDBC\SGG2023JDBC8.0\atguigu-jdbc\jdbc-base-statement\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JdbcPreparedStatementLoginPart">
-    <configuration name="JdbcPreparedStatementLoginPart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jdbc01.jdbc.JdbcPreparedStatementLoginPart" />
+  <component name="RunManager" selected="JUnit.JdbcPreparedStatementCrudPart.testQueryMap">
+    <configuration name="JdbcPreparedStatementCrudPart.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jdbc-base-statement" />
       <extension name="coverage">
         <pattern>
@@ -61,12 +65,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.jdbc01.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.jdbc01.jdbc.JdbcPreparedStatementCrudPart" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JdbcStatementLoginPart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jdbc01.jdbc.JdbcStatementLoginPart" />
+    <configuration name="JdbcPreparedStatementCrudPart.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jdbc-base-statement" />
       <extension name="coverage">
         <pattern>
@@ -74,12 +81,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.jdbc01.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.jdbc01.jdbc.JdbcPreparedStatementCrudPart" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JdbcStatementQueryPart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jdbc01.jdbc.JdbcStatementQueryPart" />
+    <configuration name="JdbcPreparedStatementCrudPart.testInset" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jdbc-base-statement" />
       <extension name="coverage">
         <pattern>
@@ -87,15 +97,53 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.jdbc01.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.jdbc01.jdbc.JdbcPreparedStatementCrudPart" />
+      <option name="METHOD_NAME" value="testInset" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcPreparedStatementCrudPart.testQueryMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-base-statement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdbc01.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdbc01.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.jdbc01.jdbc.JdbcPreparedStatementCrudPart" />
+      <option name="METHOD_NAME" value="testQueryMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcPreparedStatementCrudPart.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-base-statement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdbc01.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdbc01.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.jdbc01.jdbc.JdbcPreparedStatementCrudPart" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JdbcPreparedStatementLoginPart" />
-        <item itemvalue="Application.JdbcStatementQueryPart" />
-        <item itemvalue="Application.JdbcStatementLoginPart" />
+        <item itemvalue="JUnit.JdbcPreparedStatementCrudPart.testQueryMap" />
+        <item itemvalue="JUnit.JdbcPreparedStatementCrudPart.testDelete" />
+        <item itemvalue="JUnit.JdbcPreparedStatementCrudPart.testUpdate" />
+        <item itemvalue="JUnit.JdbcPreparedStatementCrudPart.testInset" />
+        <item itemvalue="JUnit.JdbcPreparedStatementCrudPart.testInsert" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +155,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687934932752</updated>
-      <workItem from="1687934933808" duration="4047000" />
+      <workItem from="1687934933808" duration="4793000" />
+      <workItem from="1688086445934" duration="5706000" />
     </task>
     <servers />
   </component>
