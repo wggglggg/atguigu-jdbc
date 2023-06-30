@@ -28,35 +28,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path": "C:\\Users\\wggglggg\\OneDrive\\venvs\\JavaProjects\\JDBC\\SGG2023JDBC8.0\\atguigu-jdbc\\jdbc-base-statement\\lib",
-    "Downloaded.Files.Path.Enabled": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/wggglggg/OneDrive/venvs/JavaProjects/JDBC/SGG2019JDBC/jdbc_1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "File.Encoding",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path&quot;: &quot;C:\\Users\\wggglggg\\OneDrive\\venvs\\JavaProjects\\JDBC\\SGG2023JDBC8.0\\atguigu-jdbc\\jdbc-base-statement\\lib&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/wggglggg/OneDrive/venvs/JavaProjects/JDBC/SGG2019JDBC/jdbc_1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\wggglggg\OneDrive\venvs\JavaProjects\JDBC\SGG2023JDBC8.0\atguigu-jdbc\jdbc-base-statement\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.JdbcPreparedStatementCrudPart.testQueryMap">
+  <component name="RunManager" selected="JUnit.OtherJdbcPart.testInsertMoreOnce">
     <configuration name="JdbcPreparedStatementCrudPart.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jdbc-base-statement" />
       <extension name="coverage">
@@ -68,38 +68,6 @@
       <option name="PACKAGE_NAME" value="com.jdbc01.jdbc" />
       <option name="MAIN_CLASS_NAME" value="com.jdbc01.jdbc.JdbcPreparedStatementCrudPart" />
       <option name="METHOD_NAME" value="testDelete" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JdbcPreparedStatementCrudPart.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jdbc-base-statement" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jdbc01.jdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.jdbc01.jdbc" />
-      <option name="MAIN_CLASS_NAME" value="com.jdbc01.jdbc.JdbcPreparedStatementCrudPart" />
-      <option name="METHOD_NAME" value="testInsert" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JdbcPreparedStatementCrudPart.testInset" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jdbc-base-statement" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jdbc01.jdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.jdbc01.jdbc" />
-      <option name="MAIN_CLASS_NAME" value="com.jdbc01.jdbc.JdbcPreparedStatementCrudPart" />
-      <option name="METHOD_NAME" value="testInset" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,13 +105,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OtherJdbcPart.returnPrimaryKey" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-base-statement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdbc01.expand.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdbc01.expand" />
+      <option name="MAIN_CLASS_NAME" value="com.jdbc01.expand.OtherJdbcPart" />
+      <option name="METHOD_NAME" value="returnPrimaryKey" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OtherJdbcPart.testInsertMoreOnce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-base-statement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdbc01.expand.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdbc01.expand" />
+      <option name="MAIN_CLASS_NAME" value="com.jdbc01.expand.OtherJdbcPart" />
+      <option name="METHOD_NAME" value="testInsertMoreOnce" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OtherJdbcPart.testInsertMoreOnce" />
+        <item itemvalue="JUnit.OtherJdbcPart.returnPrimaryKey" />
         <item itemvalue="JUnit.JdbcPreparedStatementCrudPart.testQueryMap" />
         <item itemvalue="JUnit.JdbcPreparedStatementCrudPart.testDelete" />
         <item itemvalue="JUnit.JdbcPreparedStatementCrudPart.testUpdate" />
-        <item itemvalue="JUnit.JdbcPreparedStatementCrudPart.testInset" />
-        <item itemvalue="JUnit.JdbcPreparedStatementCrudPart.testInsert" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +157,7 @@
       <updated>1687934932752</updated>
       <workItem from="1687934933808" duration="4793000" />
       <workItem from="1688086445934" duration="5799000" />
+      <workItem from="1688104783409" duration="4338000" />
     </task>
     <servers />
   </component>
