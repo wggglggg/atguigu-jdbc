@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/atguigu-jdbc.iml" filepath="$PROJECT_DIR$/atguigu-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc-base-statement/jdbc-base-statement.iml" filepath="$PROJECT_DIR$/jdbc-base-statement/jdbc-base-statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc-pool-druid/jdbc-pool-druid.iml" filepath="$PROJECT_DIR$/jdbc-pool-druid/jdbc-pool-druid.iml" />
     </modules>
   </component>
 </project>
