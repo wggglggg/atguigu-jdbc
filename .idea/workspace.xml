@@ -39,31 +39,59 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/wggglggg/OneDrive/venvs/JavaProjects/JDBC/SGG2023JDBC8.0/atguigu-jdbc/jdbc-pool-druid/src/com/jdbc01/druid",
+    "last_opened_file_path": "C:/Users/wggglggg/OneDrive/venvs/JavaProjects/JDBC/SGG2023JDBC8.0/atguigu-jdbc/CMS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "File.Encoding",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wggglggg\OneDrive\venvs\JavaProjects\JDBC\SGG2023JDBC8.0\atguigu-jdbc" />
       <recent name="C:\Users\wggglggg\OneDrive\venvs\JavaProjects\JDBC\SGG2023JDBC8.0\atguigu-jdbc\jdbc-pool-druid\src\com\jdbc01\druid" />
       <recent name="C:\Users\wggglggg\OneDrive\venvs\JavaProjects\JDBC\SGG2023JDBC8.0\atguigu-jdbc\jdbc-pool-druid\src\utils" />
       <recent name="C:\Users\wggglggg\OneDrive\venvs\JavaProjects\JDBC\SGG2023JDBC8.0\atguigu-jdbc\src" />
       <recent name="C:\Users\wggglggg\OneDrive\venvs\JavaProjects\JDBC\SGG2023JDBC8.0\atguigu-jdbc\jdbc-pool-druid\lib" />
-      <recent name="C:\Users\wggglggg\OneDrive\venvs\JavaProjects\JDBC\SGG2023JDBC8.0\atguigu-jdbc\jdbc-base-statement\lib" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="utils" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PSCURDPart.testQuery">
+  <component name="RunManager" selected="Application.CustomerManage (1)">
+    <configuration name="CustomerManage (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.cms.main.CustomerManage" />
+      <module name="CMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.cms.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerManage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.cms.main.CustomerManage" />
+      <module name="atguigu-jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.cms.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PSCURDPart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jdbc-pool-druid" />
       <extension name="coverage">
@@ -75,22 +103,6 @@
       <option name="PACKAGE_NAME" value="utils" />
       <option name="MAIN_CLASS_NAME" value="utils.PSCURDPart" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PSCURDPart.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jdbc-pool-druid" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="utils" />
-      <option name="MAIN_CLASS_NAME" value="utils.PSCURDPart" />
-      <option name="METHOD_NAME" value="testDelete" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,29 +139,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PSCURDPart.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jdbc-pool-druid" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="utils" />
-      <option name="MAIN_CLASS_NAME" value="utils.PSCURDPart" />
-      <option name="METHOD_NAME" value="testUpdate" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomerManage (1)" />
+        <item itemvalue="Application.CustomerManage" />
         <item itemvalue="JUnit.PSCURDPart.testQuery" />
         <item itemvalue="JUnit.PSCURDPart.testQueryMap" />
         <item itemvalue="JUnit.PSCURDPart" />
-        <item itemvalue="JUnit.PSCURDPart.testDelete" />
-        <item itemvalue="JUnit.PSCURDPart.testUpdate" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +165,8 @@
       <workItem from="1688177227852" duration="182000" />
       <workItem from="1688189053337" duration="2064000" />
       <workItem from="1688191379386" duration="6528000" />
-      <workItem from="1688271748763" duration="5206000" />
+      <workItem from="1688271748763" duration="10178000" />
+      <workItem from="1688282718686" duration="7842000" />
     </task>
     <servers />
   </component>

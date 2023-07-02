@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CMS/CMS.iml" filepath="$PROJECT_DIR$/CMS/CMS.iml" />
       <module fileurl="file://$PROJECT_DIR$/atguigu-jdbc.iml" filepath="$PROJECT_DIR$/atguigu-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc-base-statement/jdbc-base-statement.iml" filepath="$PROJECT_DIR$/jdbc-base-statement/jdbc-base-statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc-pool-druid/jdbc-pool-druid.iml" filepath="$PROJECT_DIR$/jdbc-pool-druid/jdbc-pool-druid.iml" />
