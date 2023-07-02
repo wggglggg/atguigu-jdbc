@@ -30,7 +30,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Downloaded.Files.Path": "C:\\Users\\wggglggg\\OneDrive\\venvs\\JavaProjects\\JDBC\\SGG2023JDBC8.0\\atguigu-jdbc\\jdbc-pool-druid\\lib",
+    "Downloaded.Files.Path": "C:\\Users\\wggglggg\\OneDrive\\venvs\\JavaProjects\\JDBC\\SGG2023JDBC8.0\\atguigu-jdbc\\jdbc-base-statement\\lib",
     "Downloaded.Files.Path.Enabled": "true",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -63,69 +63,8 @@
       <recent name="utils" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BankTest.testBank">
-    <configuration name="DruidUsePart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jdbc01.druid.DruidUsePart" />
-      <module name="jdbc-pool-druid" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jdbc01.druid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BankTest.testBank" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jdbc-pool-druid" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jdbc02.transctionnew.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.jdbc02.transctionnew" />
-      <option name="MAIN_CLASS_NAME" value="com.jdbc02.transctionnew.BankTest" />
-      <option name="METHOD_NAME" value="testBank" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DruidUsePart.testHard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jdbc-pool-druid" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jdbc01.druid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.jdbc01.druid" />
-      <option name="MAIN_CLASS_NAME" value="com.jdbc01.druid.DruidUsePart" />
-      <option name="METHOD_NAME" value="testHard" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DruidUsePart.testSoft" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jdbc-pool-druid" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jdbc01.druid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.jdbc01.druid" />
-      <option name="MAIN_CLASS_NAME" value="com.jdbc01.druid.DruidUsePart" />
-      <option name="METHOD_NAME" value="testSoft" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JdbcUtilsV1.testJdbcUtils" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PSCURDPart.testQuery">
+    <configuration name="PSCURDPart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jdbc-pool-druid" />
       <extension name="coverage">
         <pattern>
@@ -134,8 +73,71 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="utils" />
-      <option name="MAIN_CLASS_NAME" value="utils.JdbcUtilsV1" />
-      <option name="METHOD_NAME" value="testJdbcUtils" />
+      <option name="MAIN_CLASS_NAME" value="utils.PSCURDPart" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PSCURDPart.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-pool-druid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utils" />
+      <option name="MAIN_CLASS_NAME" value="utils.PSCURDPart" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PSCURDPart.testQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-pool-druid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utils" />
+      <option name="MAIN_CLASS_NAME" value="utils.PSCURDPart" />
+      <option name="METHOD_NAME" value="testQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PSCURDPart.testQueryMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-pool-druid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utils" />
+      <option name="MAIN_CLASS_NAME" value="utils.PSCURDPart" />
+      <option name="METHOD_NAME" value="testQueryMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PSCURDPart.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-pool-druid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utils" />
+      <option name="MAIN_CLASS_NAME" value="utils.PSCURDPart" />
+      <option name="METHOD_NAME" value="testUpdate" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -143,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BankTest.testBank" />
-        <item itemvalue="JUnit.JdbcUtilsV1.testJdbcUtils" />
-        <item itemvalue="JUnit.DruidUsePart.testSoft" />
-        <item itemvalue="JUnit.DruidUsePart.testHard" />
-        <item itemvalue="Application.DruidUsePart" />
+        <item itemvalue="JUnit.PSCURDPart.testQuery" />
+        <item itemvalue="JUnit.PSCURDPart.testQueryMap" />
+        <item itemvalue="JUnit.PSCURDPart" />
+        <item itemvalue="JUnit.PSCURDPart.testDelete" />
+        <item itemvalue="JUnit.PSCURDPart.testUpdate" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +169,7 @@
       <workItem from="1688177227852" duration="182000" />
       <workItem from="1688189053337" duration="2064000" />
       <workItem from="1688191379386" duration="6528000" />
+      <workItem from="1688271748763" duration="5206000" />
     </task>
     <servers />
   </component>
