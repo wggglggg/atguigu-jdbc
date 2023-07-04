@@ -39,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/wggglggg/OneDrive/venvs/JavaProjects/JDBC/SGG2023JDBC8.0/atguigu-jdbc/CMS",
+    "last_opened_file_path": "C:/Users/wggglggg/OneDrive/venvs/JavaProjects/JDBC/SGG2023JDBC8.0/atguigu-jdbc/CMS/lib",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,17 +53,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wggglggg\OneDrive\venvs\JavaProjects\JDBC\SGG2023JDBC8.0\atguigu-jdbc\CMS\lib" />
       <recent name="C:\Users\wggglggg\OneDrive\venvs\JavaProjects\JDBC\SGG2023JDBC8.0\atguigu-jdbc" />
       <recent name="C:\Users\wggglggg\OneDrive\venvs\JavaProjects\JDBC\SGG2023JDBC8.0\atguigu-jdbc\jdbc-pool-druid\src\com\jdbc01\druid" />
       <recent name="C:\Users\wggglggg\OneDrive\venvs\JavaProjects\JDBC\SGG2023JDBC8.0\atguigu-jdbc\jdbc-pool-druid\src\utils" />
       <recent name="C:\Users\wggglggg\OneDrive\venvs\JavaProjects\JDBC\SGG2023JDBC8.0\atguigu-jdbc\src" />
-      <recent name="C:\Users\wggglggg\OneDrive\venvs\JavaProjects\JDBC\SGG2023JDBC8.0\atguigu-jdbc\jdbc-pool-druid\lib" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CustomerManage (1)">
+  <component name="RunManager" selected="JUnit.DruidUsePart.testCount">
     <configuration name="CustomerManage (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.atguigu.cms.main.CustomerManage" />
       <module name="CMS" />
@@ -92,17 +92,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PSCURDPart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DruidUsePart.testCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jdbc-pool-druid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="utils.*" />
+          <option name="PATTERN" value="com.jdbc01.druid.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="utils" />
-      <option name="MAIN_CLASS_NAME" value="utils.PSCURDPart" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.jdbc01.druid" />
+      <option name="MAIN_CLASS_NAME" value="com.jdbc01.druid.DruidUsePart" />
+      <option name="METHOD_NAME" value="testCount" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -141,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DruidUsePart.testCount" />
         <item itemvalue="Application.CustomerManage (1)" />
         <item itemvalue="Application.CustomerManage" />
         <item itemvalue="JUnit.PSCURDPart.testQuery" />
         <item itemvalue="JUnit.PSCURDPart.testQueryMap" />
-        <item itemvalue="JUnit.PSCURDPart" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +168,7 @@
       <workItem from="1688191379386" duration="6528000" />
       <workItem from="1688271748763" duration="10178000" />
       <workItem from="1688282718686" duration="7842000" />
+      <workItem from="1688294407971" duration="1311000" />
     </task>
     <servers />
   </component>

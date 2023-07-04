@@ -3,6 +3,7 @@ package com.atguigu.cms.service;
 
 import com.atguigu.cms.dao.CustomerDAO;
 import com.atguigu.cms.javabean.Customer;
+import org.junit.Test;
 
 import java.lang.reflect.InvocationTargetException;
 import java.sql.SQLException;
